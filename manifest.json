@@ -1,0 +1,10 @@
+{
+  "domain": "umbrel_sensor",
+  "name": "Sensor for local Umbrel node",
+  "documentation": "https://github.com/triangle-lightning/umbrel_sensor",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}

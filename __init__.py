@@ -1,0 +1,1 @@
+"""The Umbrel sensor integration."""
